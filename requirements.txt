@@ -1,0 +1,6 @@
+customtkinter
+google-generativeai
+firebase-admin
+requests
+pillow
+pyinstaller
